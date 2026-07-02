@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "v0.1.1 首个发布版本",
+  "pub_date": "2026-07-02T10:00:51.980Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSHZtVjduMVlKdTNydVlpYVU0UGtLTWhRSXFnYTdKMHVkbk9SdVJGN2YrajdHdDNxbTBmNGpvQVZkMFFzK2Q2QmQ4TXJGVGNTd1N4YmIzVE5yYmVuWGU1WmZ3d2Q2clFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTg2NDQ3CWZpbGU6QVBpeGVsXzAuMS4xX3g2NC1zZXR1cC5leGUKYmhaakJycnJKZEpCQS9BTldFZUQ4UVc3MTlKdVVJTm5rZkNHK1lZQk92d29XM3ZPRlo1L3Yva052OVJ2VG1SV3l3bnlhU0JOTVNjSEsyRUlvN1RrRFE9PQo=",
+      "url": "https://00x421.github.io/apixel-release/APixel_0.1.1_x64-setup.exe"
+    }
+  }
+}
